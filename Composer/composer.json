@@ -1,0 +1,14 @@
+{
+    "name": "panda/composer",
+    "description": "Aula de PHP 7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andre Coutinho Silva"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
