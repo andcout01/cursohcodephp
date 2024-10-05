@@ -1,10 +1,11 @@
 {
-    "name": "panda/composer",
+    "name": "andcout/composer",
     "description": "Aula de PHP 7",
     "type": "project",
     "authors": [
         {
-            "name": "Andre Coutinho Silva"
+            "name": "andcout01",
+            "email": "andcout@outlook.com"
         }
     ],
     "minimum-stability": "dev",
