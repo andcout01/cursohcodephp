@@ -8,4 +8,5 @@ $exec = mysqli_query($conn, $sql);
 while ($resultado = mysqli_fetch_object($exec)) {
     echo $resultado->deslogin . '<br>';
     echo $resultado->dessenha . '<br>';
+    var_dump($resultado);
 }
